@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-08T11:09:04 IST" name="Default suite" finished-at="2022-03-08T11:09:15 IST" duration-ms="10697">
+    <groups>
+    </groups>
+    <test started-at="2022-03-08T11:09:04 IST" name="Default test" finished-at="2022-03-08T11:09:15 IST" duration-ms="10697">
+      <class name="com.mphasis.demo.SeleniumJenminsDemo.AppTest">
+        <test-method is-config="true" signature="before()[pri:0, instance:com.mphasis.demo.SeleniumJenminsDemo.AppTest@3a6bb9bf]" started-at="2022-03-08T11:09:04 IST" name="before" finished-at="2022-03-08T11:09:15 IST" duration-ms="10448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="shouldTitleMatch()[pri:0, instance:com.mphasis.demo.SeleniumJenminsDemo.AppTest@3a6bb9bf]" started-at="2022-03-08T11:09:15 IST" name="shouldTitleMatch" finished-at="2022-03-08T11:09:15 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldTitleMatch -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mphasis.demo.SeleniumJenminsDemo.AppTest@3a6bb9bf]" started-at="2022-03-08T11:09:15 IST" name="closeBrowser" finished-at="2022-03-08T11:09:15 IST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.mphasis.demo.SeleniumJenminsDemo.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
